@@ -5,9 +5,9 @@
 | Dimension | Current State | Risk Level | 48-Hour Action |
 |-----------|--------------|------------|---------------|
 | **Provider** | LOW | H / M / L | |
-| **Abstraction** | | H / M / L | |
-| **Routing** | | H / M / L | |
-| **Eval** | | H / M / L | |
+| **Abstraction** | MEDIUM | H / M / L | |
+| **Routing** | MEDIUM | H / M / L | |
+| **Eval** | HIGH | H / M / L | |
 
 ## Portability Score
 <!-- Ready / Partial / Locked -->
