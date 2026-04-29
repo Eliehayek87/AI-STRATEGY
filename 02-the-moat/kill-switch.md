@@ -4,7 +4,7 @@
 
 | Dimension | Current State | Risk Level | 48-Hour Action |
 |-----------|--------------|------------|---------------|
-| **Provider** | | H / M / L | |
+| **Provider** | LOW | H / M / L | |
 | **Abstraction** | | H / M / L | |
 | **Routing** | | H / M / L | |
 | **Eval** | | H / M / L | |
