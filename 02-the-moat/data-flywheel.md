@@ -158,7 +158,7 @@ own the workflow and evaluation layer
 
 This reduces platform dependency risk.
 
-Strategic Principle
+<!-- One sentence: what does this prototype demonstrate? Strategic Principle
 
 If Big Tech owns:
 
@@ -173,3 +173,4 @@ the institutional memory layer
 the workflow layer
 
 That is the survivable position.
+--> 
