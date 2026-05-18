@@ -37,5 +37,9 @@
 <!-- Before/After: Old SaaS revenue vs. AI usage revenue for your product -->
 
 **Before (traditional SaaS):**
-**After (AI-enabled):**
-**Net margin shift:**
+Predictable licensing revenue with mostly fixed infrastructure and support costs.
+
+**After (AI-enabled):** Higher-value operational platform with usage-linked AI revenue, increased analytical capabilities, and stronger customer dependency, but with variable inference costs tied to adoption and workload complexity.
+
+**Net margin shift:*Margins become more variable in the short term due to AI inference costs, but long-term value and pricing power increase through operational integration, automation gains, and premium intelligence capabilities.
+*
