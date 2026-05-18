@@ -5,9 +5,9 @@
 | Dimension | Current State | Risk Level | 48-Hour Action |
 |-----------|--------------|------------|---------------|
 | **Provider** | LOW | H / M / L |Shift non-critical workloads to secondary providers while preserving the primary provider for high-risk and strategic use cases. Review consumption and temporarily reduce non-essential AI processing. | 
-| **Abstraction** | MEDIUM | H / M / L | MEDIUM |Reinforce the abstraction layer to ensure prompts, routing, and evaluation pipelines remain provider-agnostic and can be switched with minimal operational disruption.
-| **Routing** | MEDIUM | H / M / L |MEDIUM | Dynamically reroute lower-priority requests to alternative providers and activate fallback logic based on cost, latency, and operational criticality.
-| **Eval** | HIGH | H / M / L |HIGH | Immediately rerun golden datasets and regression benchmarks against alternative providers to validate quality, hallucination rate, and operational acceptability before wider rollout.
+| **Abstraction** | MEDIUM | H / M / L | Reinforce the abstraction layer to ensure prompts, routing, and evaluation pipelines remain provider-agnostic and can be switched with minimal operational disruption. |
+| **Routing** | MEDIUM | H / M / L |Dynamically reroute lower-priority requests to alternative providers and activate fallback logic based on cost, latency, and operational criticality. | 
+| **Eval** | HIGH | H / M / L |Immediately rerun golden datasets and regression benchmarks against alternative providers to validate quality, hallucination rate, and operational acceptability before wider rollout. | 
 
 ## Portability Score
 <!-- Ready / Partial / Locked --> PARTIAL 
